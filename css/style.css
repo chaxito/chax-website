@@ -1,10 +1,4 @@
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
---*/
-/* Reset Code */
+
 body {
     padding: 0;
     margin: 0;
@@ -116,7 +110,7 @@ a.move-top {
 
 /* banner */
 .banner-top1 {
-    background: url(../images/1.jpg) no-repeat top;
+    background: url(../images/internet2.jpg) no-repeat top;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -277,7 +271,7 @@ ul.submenu li a.active {
 
 /* footer */
 footer {
-    background: url(../images/2.jpg) no-repeat top;
+    background: url(../images/footer.jpg) no-repeat top;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -318,14 +312,14 @@ p.foot-para {
     border-color: #1da1f2;
 }
 
-.w3_w3pvt-web_dribble {
-    background: #ea4c89;
-    border-color: #ea4c89;
+.w3_w3pvt-web_linkedin {
+    background: #2d0de0;
+    border-color: #230df1;
 }
 
-.w3_w3pvt-web_google {
-    background: #F44336;
-    border-color: #F44336;
+.w3_w3pvt-web_instagram {
+    background: #e7190b;
+    border-color: #f1190a;
 }
 
 /* //social-icons */
@@ -340,7 +334,7 @@ p.foot-para {
     letter-spacing: 2px;
     border-color: rgba(255, 255, 255, 0.42) !important;
     padding-top: 2em;
-    color: #e0e0e0;
+    color: whitesmoke;
     font-size: 14.5px;
 }
 
@@ -835,7 +829,7 @@ a.blog-title {
 
 /* testmonials */
 .testimonials {
-    background: url(../images/bg1.jpg) no-repeat bottom;
+    background: url(../images/testimonial.jpg) no-repeat bottom;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
